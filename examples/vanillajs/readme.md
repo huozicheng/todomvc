@@ -1,5 +1,5 @@
-# Vanilla JavaScript TodoMVC Example
+# Vanilla ES6 (ES2015) • [TodoMVC](http://todomvc.com)
 
-> JavaScript® (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, most known as the scripting language for Web pages, but used in many non-browser environments as well such as node.js or Apache CouchDB.
+This is a rewrite of the incoming ES2015 app for TodoMVC that works out of the box in Chrome 49+ without the need for a transpiler. 
 
-> _[JavaScript - developer.mozilla.org](http://developer.mozilla.org/en-US/docs/JavaScript)
+Full ES2015 support in a browser would allow Luke Edwards [original](https://github.com/tastejs/todomvc/pull/1515) ES2015 app to run without any modifications needed.
